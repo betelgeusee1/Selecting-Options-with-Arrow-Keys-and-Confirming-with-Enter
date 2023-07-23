@@ -1,0 +1,8 @@
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\obj\Debug\YonTuslariDeneme.csproj.AssemblyReference.cache
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\obj\Debug\YonTuslariDeneme.csproj.SuggestedBindingRedirects.cache
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\obj\Debug\YonTuslariDeneme.csproj.CoreCompileInputs.cache
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\bin\Debug\YonTuslariDeneme.exe.config
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\bin\Debug\YonTuslariDeneme.exe
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\bin\Debug\YonTuslariDeneme.pdb
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\obj\Debug\YonTuslariDeneme.exe
+C:\Users\Betelgeuse\source\repos\YonTuslariDeneme\YonTuslariDeneme\obj\Debug\YonTuslariDeneme.pdb
